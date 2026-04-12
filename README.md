@@ -1,6 +1,7 @@
 # 📝 Gestor de Tareas (Python + CustomTkinter)
 
 Aplicación de escritorio para gestionar tareas con interfaz moderna usando CustomTkinter.
+![alt text](image.png)
 
 ## 🚀 Características
 
@@ -46,13 +47,10 @@ Aplicación de escritorio para gestionar tareas con interfaz moderna usando Cust
 4. **Ejecutar:**
     ```bash
     python main.py
+    
     # En caso de que no:
     python3 main.py
 
 ## 📌 Notas
 
 Este proyecto fue desarrollado como práctica para mejorar habilidades en interfaces gráficas con Python.
-
-## 📷 Captura
-
-![alt text](image.png)
